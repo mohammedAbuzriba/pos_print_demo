@@ -62,3 +62,10 @@
 ```bash
 git clone https://github.com/mohammedAbuzriba/pos_print_demo.git
 ```
+
+المطوّر
+
+Mohammed Abuzriba
+GitHub: https://github.com/mohammedAbuzriba
+
+Email: moha.abozreba@gmail.com
